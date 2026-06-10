@@ -118,4 +118,4 @@ The SDDS and DDM concepts implemented here form the sentiment analysis layer of 
 
 **Gagan Suri** — AI in Retail | Patent Pending Inventor | [LinkedIn](https://linkedin.com/in/gagansuri)
 
-*Follow my [AI in Retail newsletter on LinkedIn](https://linkedin.com/in/gagansuri) for weekly insights on how AI is transforming retail operations.*
+*Follow my [Think Retail AI newsletter on LinkedIn](Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7468788953366818817) for weekly insights on how AI is transforming retail operations.*
